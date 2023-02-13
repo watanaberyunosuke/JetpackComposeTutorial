@@ -24,3 +24,13 @@ P
 Oapp/src/test/java/com/mysterioussoftware/jetpackcomposebasic/ExampleUnitTest.kt,9/d/9d4dfab71a82f76d403617abd0ae5cc56306ec5c
 }
 Mapp/src/main/java/com/mysterioussoftware/jetpackcomposebasic/ui/theme/Type.kt,f/8/f8acd805b66eeed06dac8d00e1201f3d47778c9d
+<
+build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+~
+Napp/src/main/java/com/mysterioussoftware/jetpackcomposebasic/ui/theme/Color.kt,2/8/286111a0a6e04c079140fab886a41f5b2f98f103
+~
+Napp/src/main/java/com/mysterioussoftware/jetpackcomposebasic/ui/theme/Theme.kt,a/2/a22943f3adb3980c1c2b54897787d53f73e6283d
+|
+Lapp/src/main/java/com/mysterioussoftware/jetpackcomposebasic/MainActivity.kt,4/b/4b7b4b1318bc479e0664e69f0b5d4f0f5e944f81
